@@ -1,0 +1,37 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: ATI Radeon 3000 Graphics (ID=0x9616)
+    Vendor:   ATI
+    VRAM:     252 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Marcin Piszczek Kulka The Game - Konkurs\Kulka The Game Marcin Piszczek\Kulka The Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Marcin Piszczek Kulka The Game - Konkurs\Kulka The Game Marcin Piszczek\Kulka The Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Marcin Piszczek Kulka The Game - Konkurs\Kulka The Game Marcin Piszczek\Kulka The Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Marcin Piszczek Kulka The Game - Konkurs\Kulka The Game Marcin Piszczek\Kulka The Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Marcin Piszczek Kulka The Game - Konkurs\Kulka The Game Marcin Piszczek\Kulka The Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Marcin Piszczek Kulka The Game - Konkurs\Kulka The Game Marcin Piszczek\Kulka The Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Marcin Piszczek Kulka The Game - Konkurs\Kulka The Game Marcin Piszczek\Kulka The Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Marcin Piszczek Kulka The Game - Konkurs\Kulka The Game Marcin Piszczek\Kulka The Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Marcin Piszczek Kulka The Game - Konkurs\Kulka The Game Marcin Piszczek\Kulka The Game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.596 seconds
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: F:\Marcin Piszczek Kulka The Game - Konkurs\Kulka The Game Marcin Piszczek\Kulka The Game_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 30c -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.948046 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 582.
+Total: 0.657697 ms (FindLiveObjects: 0.077978 ms CreateObjectMapping: 0.029931 ms MarkObjects: 0.502528 ms  DeleteObjects: 0.035182 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.565803 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 607.
+Total: 0.295110 ms (FindLiveObjects: 0.027568 ms CreateObjectMapping: 0.016540 ms MarkObjects: 0.236036 ms  DeleteObjects: 0.014440 ms)
+
